@@ -1,0 +1,28 @@
+C:\Users\Westley\Desktop\서버\60\bin\Debug\60.exe.config
+C:\Users\Westley\Desktop\서버\60\bin\Debug\60.exe
+C:\Users\Westley\Desktop\서버\60\obj\Debug\_60.Form1.resources
+C:\Users\Westley\Desktop\서버\60\obj\Debug\_60.Properties.Resources.resources
+C:\Users\Westley\Desktop\서버\60\obj\Debug\60.csproj.GenerateResource.Cache
+C:\Users\Westley\Desktop\서버\60\obj\Debug\60.exe
+C:\Users\Westley\Desktop\서버\60\obj\Debug\60.pdb
+C:\Users\Westley\Desktop\서버\60\bin\Debug\60.pdb
+C:\Users\Westley\Desktop\서버\60\obj\Debug\60.csprojResolveAssemblyReference.cache
+C:\Users\Westley\Desktop\[3조] 프로젝트 - 서버\60\bin\Debug\60.exe.config
+C:\Users\Westley\Desktop\[3조] 프로젝트 - 서버\60\obj\Debug\60.exe
+C:\Users\Westley\Desktop\[3조] 프로젝트 - 서버\60\obj\Debug\60.pdb
+C:\Users\Westley\Desktop\[3조] 프로젝트 - 서버\60\bin\Debug\60.exe
+C:\Users\Westley\Desktop\[3조] 프로젝트 - 서버\60\bin\Debug\60.pdb
+C:\Users\Westley\Desktop\[3조] 프로젝트 - 서버\60\obj\Debug\60.csprojResolveAssemblyReference.cache
+C:\Users\Westley\Desktop\[3조] 프로젝트 - 서버\60\obj\Debug\_60.Form1.resources
+C:\Users\Westley\Desktop\[3조] 프로젝트 - 서버\60\obj\Debug\_60.Properties.Resources.resources
+C:\Users\Westley\Desktop\[3조] 프로젝트 - 서버\60\obj\Debug\60.csproj.GenerateResource.Cache
+C:\Users\Sangrin Lee\Desktop\프로젝트\server\60\bin\Debug\60.exe.config
+C:\Users\Sangrin Lee\Desktop\프로젝트\server\60\bin\Debug\60.exe
+C:\Users\Sangrin Lee\Desktop\프로젝트\server\60\bin\Debug\60.pdb
+C:\Users\Sangrin Lee\Desktop\프로젝트\server\60\obj\Debug\60.csprojAssemblyReference.cache
+C:\Users\Sangrin Lee\Desktop\프로젝트\server\60\obj\Debug\_60.Form1.resources
+C:\Users\Sangrin Lee\Desktop\프로젝트\server\60\obj\Debug\_60.Properties.Resources.resources
+C:\Users\Sangrin Lee\Desktop\프로젝트\server\60\obj\Debug\60.csproj.GenerateResource.cache
+C:\Users\Sangrin Lee\Desktop\프로젝트\server\60\obj\Debug\60.csproj.CoreCompileInputs.cache
+C:\Users\Sangrin Lee\Desktop\프로젝트\server\60\obj\Debug\60.exe
+C:\Users\Sangrin Lee\Desktop\프로젝트\server\60\obj\Debug\60.pdb
