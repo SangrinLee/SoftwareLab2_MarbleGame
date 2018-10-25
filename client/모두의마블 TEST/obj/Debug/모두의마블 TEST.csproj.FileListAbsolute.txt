@@ -1,0 +1,57 @@
+c:\users\westley\documents\visual studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\bin\Debug\모두의마블 TEST.exe.config
+C:\Users\Westley\documents\visual studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블 TEST.csprojResolveAssemblyReference.cache
+C:\Users\Westley\documents\visual studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블_TEST.Properties.Resources.resources
+C:\Users\Westley\documents\visual studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블 TEST.csproj.GenerateResource.Cache
+C:\Users\Westley\documents\visual studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\bin\Debug\모두의마블 TEST.exe
+C:\Users\Westley\documents\visual studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\bin\Debug\모두의마블 TEST.pdb
+C:\Users\Westley\documents\visual studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블 TEST.exe
+C:\Users\Westley\documents\visual studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블 TEST.pdb
+C:\Users\Westley\documents\visual studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블_TEST.세계여행.resources
+C:\Users\Westley\Documents\Visual Studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블_TEST.로딩화면.resources
+C:\Users\Westley\Documents\Visual Studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블_TEST.게임모드.resources
+C:\Users\Westley\Documents\Visual Studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블_TEST.메인메뉴.resources
+C:\Users\Westley\Documents\Visual Studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블_TEST.랭킹정보.resources
+C:\Users\Westley\Documents\Visual Studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블_TEST.환경설정.resources
+C:\Users\Westley\Documents\Visual Studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블_TEST.게임시작.resources
+C:\Users\Westley\Documents\Visual Studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블_TEST.건물정보.resources
+C:\Users\Westley\Documents\Visual Studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블_TEST.지역구매.resources
+C:\Users\Westley\Documents\Visual Studio 2012\Projects\모두의마블 TEST\모두의마블 TEST\obj\Debug\모두의마블_TEST.통행료지불.resources
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\bin\Debug\모두의마블 TEST.exe.config
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블 TEST.exe
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블 TEST.pdb
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\bin\Debug\모두의마블 TEST.exe
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\bin\Debug\모두의마블 TEST.pdb
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블 TEST.csprojResolveAssemblyReference.cache
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.게임시작.resources
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.게임모드.resources
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.랭킹정보.resources
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.로딩화면.resources
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.메인메뉴.resources
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.세계여행.resources
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.건물정보.resources
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.Properties.Resources.resources
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.지역구매.resources
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.통행료지불.resources
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.환경설정.resources
+C:\Users\Westley\Desktop\모두의마블\모두의마블 TEST\obj\Debug\모두의마블 TEST.csproj.GenerateResource.Cache
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\bin\Debug\모두의마블 TEST.exe.config
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블 TEST.exe
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블 TEST.pdb
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\bin\Debug\모두의마블 TEST.exe
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\bin\Debug\모두의마블 TEST.pdb
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블 TEST.csprojResolveAssemblyReference.cache
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.게임시작.resources
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.게임모드.resources
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.랭킹정보.resources
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.로딩화면.resources
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.메인메뉴.resources
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.세계여행.resources
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.건물정보.resources
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.Properties.Resources.resources
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.지역구매.resources
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.통행료지불.resources
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블_TEST.환경설정.resources
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블\모두의마블 TEST\obj\Debug\모두의마블 TEST.csproj.GenerateResource.Cache
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블 - 소켓이용\모두의마블 TEST\bin\Debug\모두의마블 TEST.exe.config
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블 - 소켓이용\모두의마블 TEST\obj\Debug\모두의마블 TEST.exe
+C:\Users\Westley\Desktop\[3조]프로젝트_모두의마블 - 소켓이용\모두의마블 TEST\obj\Debug\모두의마블 TEST.pdb

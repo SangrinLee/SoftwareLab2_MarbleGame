@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A8ED82F7-B792-4EE1-BE73-565CAC9B6876}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>모두의마블_TEST</RootNamespace>
+    <AssemblyName>모두의마블 TEST</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="게임시작.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="게임시작.Designer.cs">
+      <DependentUpon>게임시작.cs</DependentUpon>
+    </Compile>
+    <Compile Include="랭킹정보.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="랭킹정보.Designer.cs">
+      <DependentUpon>랭킹정보.cs</DependentUpon>
+    </Compile>
+    <Compile Include="로그인.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="로그인.Designer.cs">
+      <DependentUpon>로그인.cs</DependentUpon>
+    </Compile>
+    <Compile Include="로딩화면.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="로딩화면.Designer.cs">
+      <DependentUpon>로딩화면.cs</DependentUpon>
+    </Compile>
+    <Compile Include="메인메뉴.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="메인메뉴.Designer.cs">
+      <DependentUpon>메인메뉴.cs</DependentUpon>
+    </Compile>
+    <Compile Include="세계여행.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="세계여행.Designer.cs">
+      <DependentUpon>세계여행.cs</DependentUpon>
+    </Compile>
+    <Compile Include="건물정보.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="건물정보.Designer.cs">
+      <DependentUpon>건물정보.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Places.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="지역구매.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="지역구매.Designer.cs">
+      <DependentUpon>지역구매.cs</DependentUpon>
+    </Compile>
+    <Compile Include="통행료지불.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="통행료지불.Designer.cs">
+      <DependentUpon>통행료지불.cs</DependentUpon>
+    </Compile>
+    <Compile Include="환경설정.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="환경설정.Designer.cs">
+      <DependentUpon>환경설정.cs</DependentUpon>
+    </Compile>
+    <Compile Include="회원가입.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="회원가입.Designer.cs">
+      <DependentUpon>회원가입.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="게임시작.resx">
+      <DependentUpon>게임시작.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="랭킹정보.resx">
+      <DependentUpon>랭킹정보.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="로그인.resx">
+      <DependentUpon>로그인.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="로딩화면.resx">
+      <DependentUpon>로딩화면.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="메인메뉴.resx">
+      <DependentUpon>메인메뉴.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="세계여행.resx">
+      <DependentUpon>세계여행.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="건물정보.resx">
+      <DependentUpon>건물정보.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="지역구매.resx">
+      <DependentUpon>지역구매.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="통행료지불.resx">
+      <DependentUpon>통행료지불.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="환경설정.resx">
+      <DependentUpon>환경설정.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="회원가입.resx">
+      <DependentUpon>회원가입.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\지도0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\플레이어1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\플레이어2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\플레이어3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\플레이어4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\지도1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\지도3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\지도4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\지도5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\지도6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\지도7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\지도8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\지도9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\지도10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\지도2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\로딩.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\로딩3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\로딩5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\로딩2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\모두의마블.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\지역구매.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\콘도.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\팬션.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\호텔.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\파산.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\우대권사용.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\통행료지불.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\통행.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\버튼1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\버튼2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\버튼4.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\버튼3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\로그아웃.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\메뉴.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\게임종료.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\우주.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\a.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
